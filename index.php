@@ -1,5 +1,5 @@
 <?php
-phpinfo;
+phpinfo
 ?>
 <html>
   <h1>This is a website for PHP BEAN</h1>
