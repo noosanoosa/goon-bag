@@ -1,6 +1,1 @@
-<?php
-phpinfo
-?>
-<html>
-  <h1>This is a website for PHP BEAN</h1>
-</html>
+&copy; 2010-<?php echo date("Y");?>
